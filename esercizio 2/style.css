@@ -5,3 +5,65 @@ body {
 }
 
 /* Inserisci qui di seguito il css necessario per completare gli esercizi */
+
+.rosso {
+    color: red;
+}
+
+.verde {
+    color: green;
+    font-size: 20px;
+}
+
+.blu {
+    color: blue;
+    font-weight: bolder;
+}
+
+.arancione {
+    color: orange;
+    font-style: oblique;
+}
+
+.bottone1 {
+    background-color: green;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.bottone2 {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.rosa {
+    background-color: pink;
+    height: 30vh;
+}
+
+.azzurra {
+    background-color: lightblue;
+    height: 30vh;
+    width: 50%;
+}
+
+#hover:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+#hoverdue:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+#hovertre:hover {
+    background-color: black;
+    color: blue;
+    cursor: pointer;
+}
